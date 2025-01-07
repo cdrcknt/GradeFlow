@@ -1,69 +1,49 @@
-# Welcome to your Lovable project
+# GradeFlow
 
-## Project info
+**GradeFlow** is a course grade calculator designed specifically for BS Computer Science (BSCS) students at the Technological Institute of the Philippines (TIP). This web application helps students calculate their grades easily while providing a clear grading scheme reference.
 
-**URL**: https://lovable.dev/projects/7e4becad-07bb-40db-8a9a-bdab23ae70b9
+---
 
-## How can I edit this code?
+## Features
 
-There are several ways of editing your application.
+- **Year Level Selection:** Choose your current year level for a tailored experience.
+- **Grading Scheme:** Displays TIP's official grade percentages, equivalent numerical grades, and descriptive ratings.
+- **Grade History:** (Future feature) Save and view past grade calculations.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/7e4becad-07bb-40db-8a9a-bdab23ae70b9) and start prompting.
+## Developed By
 
-Changes made via Lovable will be committed automatically to this repo.
+- **Cedric Kent Centeno**
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## Future Enhancements
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- Add grade history feature.
+- Enable GPA calculations across multiple semesters.
+- Provide personalized feedback and suggestions for grade improvement.
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## License
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+This project is open-source and available under the MIT License.
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+## Contributions
 
-**Edit a file directly in GitHub**
+Feel free to contribute to this project! Fork the repository, make your changes, and submit a pull request.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## How to Use
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+1. Clone the repository.
+2. Open the project directory and load the application.
+3. Select your year level and input grades to calculate results.
 
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/7e4becad-07bb-40db-8a9a-bdab23ae70b9) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+```bash
+git clone https://github.com/your-repo-link.git
+cd final-grade-artist-27-main
